@@ -1,4 +1,4 @@
-# 3PWN
+# 3PWM
 A web platform to connect all the three phases of waste management system(i.e Producer, Collector and Recycler)
 ## BackEnd
 To run backend follow the following steps:
